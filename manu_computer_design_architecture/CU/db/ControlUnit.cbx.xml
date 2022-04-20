@@ -1,0 +1,33 @@
+<?xml version="1.0" ?>
+<LOG_ROOT>
+	<PROJECT NAME="ControlUnit">
+		<CBX_INST_ENTRY INSTANCE_NAME="|ControlUnit|Block1:inst16|Reg1:inst1|lpm_counter:LPM_COUNTER_component" CBX_FILE_NAME="cntr_5cj.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|ControlUnit|Block2:inst1|Shifterr:inst4|lpm_clshift:LPM_CLSHIFT_component" CBX_FILE_NAME="lpm_clshift_ved.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|ControlUnit|TimeDecoder:inst2|lpm_decode:LPM_DECODE_component" CBX_FILE_NAME="decode_5af.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|ControlUnit|Block1:inst16|AddressReg:inst5|lpm_counter:LPM_COUNTER_component" CBX_FILE_NAME="cntr_6cj.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|ControlUnit|Block1:inst16|RAMDataMemory:inst11|altsyncram:altsyncram_component" CBX_FILE_NAME="altsyncram_f9i1.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|ControlUnit|Block2:inst1|FA:inst3|lpm_add_sub:LPM_ADD_SUB_component" CBX_FILE_NAME="add_sub_c6i.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|ControlUnit|Block4:inst26|RDSELECTDEC:inst65|lpm_decode:LPM_DECODE_component" CBX_FILE_NAME="decode_0af.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|ControlUnit|IRDecoder:inst7|lpm_decode:LPM_DECODE_component" CBX_FILE_NAME="decode_lbf.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|ControlUnit|PCINPSELECT:inst118|LPM_MUX:LPM_MUX_component" CBX_FILE_NAME="mux_g6e.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|ControlUnit|PCRDINPUT:inst119|LPM_MUX:LPM_MUX_component" CBX_FILE_NAME="mux_f6e.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|ControlUnit|Block1:inst16|Reg2:inst2|lpm_counter:LPM_COUNTER_component" CBX_FILE_NAME="cntr_5cj.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|ControlUnit|SequenceCounter:inst|lpm_counter:LPM_COUNTER_component" CBX_FILE_NAME="cntr_bri.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|ControlUnit|aluregisterselection:inst8|LPM_MUX:LPM_MUX_component" CBX_FILE_NAME="mux_f6e.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|ControlUnit|ADDSUB:inst120|lpm_add_sub:LPM_ADD_SUB_component" CBX_FILE_NAME="add_sub_fgh.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|ControlUnit|Block1:inst16|BUSMUX:inst12|LPM_MUX:LPM_MUX_component" CBX_FILE_NAME="mux_u7e.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|ControlUnit|Block1:inst16|OutputReg:inst8|lpm_counter:LPM_COUNTER_component" CBX_FILE_NAME="cntr_5cj.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|ControlUnit|Block3:inst61|RdLoadDEC:inst21|lpm_decode:LPM_DECODE_component" CBX_FILE_NAME="decode_0af.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|ControlUnit|Block4:inst26|RDSELECT:inst1|lpm_decode:LPM_DECODE_component" CBX_FILE_NAME="decode_0af.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|ControlUnit|aluregisterselection:inst9|LPM_MUX:LPM_MUX_component" CBX_FILE_NAME="mux_f6e.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|ControlUnit|Block1:inst16|ProgramCounter:inst4|lpm_counter:LPM_COUNTER_component" CBX_FILE_NAME="cntr_6cj.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|ControlUnit|Block1:inst16|Reg3:inst3|lpm_counter:LPM_COUNTER_component" CBX_FILE_NAME="cntr_5cj.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|ControlUnit|Block1:inst16|InputReg:inst7|lpm_counter:LPM_COUNTER_component" CBX_FILE_NAME="cntr_5cj.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|ControlUnit|Block2:inst1|ResultMux:inst5|LPM_MUX:LPM_MUX_component" CBX_FILE_NAME="mux_m6e.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|ControlUnit|SUB:inst123|lpm_add_sub:LPM_ADD_SUB_component" CBX_FILE_NAME="add_sub_ghh.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|ControlUnit|Block1:inst16|InstructionReg:inst6|lpm_counter:LPM_COUNTER_component" CBX_FILE_NAME="cntr_jdj.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|ControlUnit|Block1:inst16|ROMInstructionMemory:inst10|altsyncram:altsyncram_component" CBX_FILE_NAME="altsyncram_r2a1.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|ControlUnit|Block1:inst16|Reg0:inst|lpm_counter:LPM_COUNTER_component" CBX_FILE_NAME="cntr_5cj.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|ControlUnit|Block2:inst1|EnableMux:inst6|LPM_MUX:LPM_MUX_component" CBX_FILE_NAME="mux_j6e.tdf"/>
+	</PROJECT>
+</LOG_ROOT>
